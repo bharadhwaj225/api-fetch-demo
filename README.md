@@ -1,18 +1,14 @@
-# Random Dog Image Fetcher
+# API Fetching Demo
 
-A simple web app that fetches and displays random dog images from the [Dog CEO API](https://dog.ceo/api).
+A simple web app demonstrating how to fetch and display data from a public API.
 
 ## How to Use
 
 1. Open `index.html` in a browser
-2. Click the "Change image" button to fetch a new random dog image
+2. Click the "Change image" button to fetch new data
 
 ## Files
 
 - `index.html` - Main HTML page
 - `style.css` - Styling
-- `script.js` - Fetches random dog images from the API
-
-## API
-
-Uses the [Dog CEO API](https://dog.ceo/dog-api/) - a free, public API that returns random dog image URLs.
+- `script.js` - Handles API requests and displays the response
